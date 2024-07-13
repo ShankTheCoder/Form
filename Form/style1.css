@@ -1,0 +1,30 @@
+
+form{
+    border: 3PX solid black;
+    width: 500px;
+    margin:0px auto;
+    text-align: center;
+}
+button[class='Facebook']{
+ background-color: blue;
+ border-radius: 2px;
+ font-style: normal;
+ color: white;
+}
+button[class='Google']{
+background-color: red;
+border-radius: 2px;
+font-style: normal;
+color: white;
+}
+
+button[class='Login']{
+    background-color: blue;
+    border-radius: 0px;
+    padding: 10px,20px;
+    color: white;
+}
+
+label.Email{
+    justify-content: right;
+}

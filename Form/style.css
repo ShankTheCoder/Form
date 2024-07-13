@@ -1,0 +1,43 @@
+.main{
+    background-color: lightgray;
+    width: 40%;
+   margin: 200px auto;
+}
+
+body {
+       background-color: black;
+}
+
+form > div{
+    margin: 15px 0;
+   
+}
+
+form {  
+    padding: 10px 20px;
+}
+
+input[type="email"]{
+      margin-left :36px;
+}
+
+input[name="number"]{
+   margin-left: 22px;
+}
+
+input[name="fname"]{
+    margin-left: 5px;
+}
+
+input[name="lname"]{
+    margin-left: 6px;
+}
+
+input[name="brith"]{
+    margin-right:-4px;
+}
+    
+input{
+    padding: 6px 0;
+    border-radius: 6px;
+}

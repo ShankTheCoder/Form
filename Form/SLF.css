@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+    font-family: 'roboto', sans-serif;
+}
+
+.Login{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    border-radius: 3px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 10px;
+}
+
+h4{
+    text-align: center;
+
+}
+
+input[Login]{
+        display: flex;
+}
+p{
+    display: flex;
+}
+
+from{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 15px;
+}
